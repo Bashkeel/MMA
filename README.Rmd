@@ -1,6 +1,6 @@
 ---
 title: "MMA Analytics"
-output: html_document
+output: md_document
 #runtime: shiny
 ---
 
